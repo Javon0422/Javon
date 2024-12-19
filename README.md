@@ -1,4 +1,4 @@
-# Before you star
+# Before you start
 
 ```
 $ pipenv install
